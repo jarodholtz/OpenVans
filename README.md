@@ -1,10 +1,8 @@
-# WeekenderVan
+# Open Weekender Vans
 
-This repository contains plans for a a folding sleeping platform that fits in a Gen 3 Toyota Sienna. 
+This repository currently contains plans for a a folding sleeping platform that fits in a Gen 3 Toyota Sienna. The hope is others can build on my design and potenitally share their build (either entirely new or refinement of current builds) in a similar way to help folks get out camping and exploring in their vehicle of choice. 
 
-If others modify these plans to fit a different vehicle, please create them in a new director and request an update to this file.
-
-### Build Goals
+### Sienna Build Goals
 
 - No permanent modifications to the vehicle.
 - A full-size sleeping platform.
@@ -18,4 +16,12 @@ If others modify these plans to fit a different vehicle, please create them in a
 ### Inspiration
 
 Not everyone needs a full size, built out, luxury van that costs buckets of money. But they also might not want to sleep in a tent. They may need to carry a bunch of folks during the weekend, but get out for the night with just one other (or themselves!) for the weekend. Minivans are a great platform to cover all these needs without owning an extra vehicle or buying an RV. 
+
+There currently seem to be a few ways people get these vehicles ready for camping. In one lane you have DIYers testing and developing something that works for them.  And while there are oodles of photos and videos out there for inspiration, there is a lack of detailed plans to getting it done. Which leads to a lot of brewing your own, trial and error, and sometimes -- a lack of refinement. And I say that as someone notorious for #janky solutions. These camping setups range from super basic $50 jobs, to builds in the five-digits. My personal aim is for something in the "couple hundred dollars and couple days of labor" realm.
+
+In the other lane you have a bunch of really cool manufacturers making nice installs. Everything from stuff that is quick in and out to full permanent builds. These are really the cats meow, but they are often inaccessible because they're relatively expensive, require many skills/tools, and the plans aren't available (even for purchase.) 
+
+
+
+
 
